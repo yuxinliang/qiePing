@@ -1,0 +1,80 @@
+{
+	"groups": [
+		{
+			"keys": "texture_0_png,skeleton_json,arrow_json,arrowtexture_json,arrowtexture_png,resource2_json,skeleton4_json,texture_04_json,texture_04_png,texture_1_json,texture_1_png,texture_2_json,texture_2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "texture_0.png",
+			"type": "image",
+			"name": "texture_0_png"
+		},
+		{
+			"url": "skeleton.json",
+			"type": "json",
+			"name": "skeleton_json"
+		},
+		{
+			"url": "arrow.json",
+			"type": "json",
+			"name": "arrow_json"
+		},
+		{
+			"url": "arrowtexture.json",
+			"type": "json",
+			"name": "arrowtexture_json"
+		},
+		{
+			"url": "arrowtexture.png",
+			"type": "image",
+			"name": "arrowtexture_png"
+		},
+		{
+			"url": "resource.json",
+			"type": "json",
+			"name": "resource2_json"
+		},
+		{
+			"url": "skeleton.json",
+			"type": "json",
+			"name": "skeleton4_json"
+		},
+		{
+			"url": "texture_0.json",
+			"type": "json",
+			"name": "texture_04_json"
+		},
+		{
+			"url": "texture_0.png",
+			"type": "image",
+			"name": "texture_04_png"
+		},
+		{
+			"url": "texture_1.json",
+			"type": "json",
+			"name": "texture_1_json"
+		},
+		{
+			"url": "texture_1.png",
+			"type": "image",
+			"name": "texture_1_png"
+		},
+		{
+			"url": "texture_2.json",
+			"type": "json",
+			"name": "texture_2_json"
+		},
+		{
+			"url": "texture_2.png",
+			"type": "image",
+			"name": "texture_2_png"
+		},
+		{
+			"url": "life.mp3",
+			"type": "sound",
+			"name": "life_mp3"
+		}
+	]
+}
